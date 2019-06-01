@@ -7,6 +7,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/x
 <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
  <!--  Aqui são listadas todas as entidades  -->
 <class>rpa.financas.modelo.Conta</class>
+<class>rpa.financas.modelo.Movimentacao</class>
 <properties>
  <!--  Propriedades JDBC  -->
 <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
