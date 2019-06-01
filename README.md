@@ -1,2 +1,2 @@
-# java_hibernate
-1º projeto
+# java_JPA_Hibernate
+AULAS JPA/HIBERNATE ALURA
